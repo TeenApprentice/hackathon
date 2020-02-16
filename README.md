@@ -1,1 +1,1 @@
-# hackthon
+# Teen Apprentice Hackathon
